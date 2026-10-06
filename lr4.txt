@@ -1,1 +1,1 @@
-Resolving conflicts
+Learning rebase and resolve conflicts in Git
